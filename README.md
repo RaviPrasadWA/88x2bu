@@ -746,16 +746,3 @@ is adapters that use the Realtek 8814au chipset. Using a powered
 multiport USB extension can be a good idea in cases like this.
 
 -----
-
-To Contribute:
-
-Fork this repository.
-Make your edits.
-TEST THEM!
-Create a pull request.
-
------
-
-#### [Go to Main Menu](https://github.com/morrownr/USB-WiFi)
-
------
